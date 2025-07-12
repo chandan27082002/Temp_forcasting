@@ -76,10 +76,18 @@ R²: Coefficient of Determination
 📈 Forecast (Jan 1 – Jan 30, 2025)
 Forecasts generated using Naive, RNN, LSTM, and GRU models. GRU shows the closest alignment to actual temperature trends.
 
-Date	Naive	RNN	LSTM	GRU
-2025-01-01	33.7	32.73	32.78	32.61
-...	...	...	...	...
-2025-01-30	33.7	38.44	32.25	32.68
+## 📅 Temperature Forecasts (Jan 1 – Jan 30, 2025)
+
+| Date       | Naive | RNN   | LSTM  | GRU   |
+|------------|-------|-------|-------|-------|
+| 2025-01-01 | 33.7  | 32.73 | 32.78 | 32.61 |
+| 2025-01-02 | 33.7  | 34.18 | 33.71 | 34.06 |
+| 2025-01-03 | 33.7  | 34.16 | 34.07 | 34.23 |
+| 2025-01-04 | 33.7  | 34.70 | 34.23 | 34.04 |
+| 2025-01-05 | 33.7  | 35.16 | 34.27 | 33.93 |
+| ...        | ...   | ...   | ...   | ...   |
+| 2025-01-30 | 33.7  | 38.44 | 32.25 | 32.68 |
+
 
 
 📌 Final Conclusion
