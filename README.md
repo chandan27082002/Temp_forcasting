@@ -1,13 +1,4 @@
 🌡️ Temperature Forecasting Project
-Group ID: 17
-Team Members:
-
-- 202418009
-
-- 202418053
-- 202418043
-
-- 202418039
 
 📌 Abstract
 This project focuses on temperature forecasting using historical weather data. Various models were implemented, including traditional statistical methods like AR, MA, ARMA, and advanced deep learning models such as RNN, LSTM, and GRU. Through extensive experimentation, GRU emerged as the most accurate model, delivering strong performance on both training and test datasets. The goal is to provide reliable regional temperature forecasts that support real-world applications like disaster management, agriculture, and transport.
