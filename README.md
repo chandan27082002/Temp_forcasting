@@ -1,12 +1,12 @@
-**🌡️ Temperature Forecasting Project**
+## **🌡️ Temperature Forecasting Project**
 
-**📌 Abstract**
+## **📌 Abstract**
 This project focuses on temperature forecasting using historical weather data. Various models were implemented, including traditional statistical methods like AR, MA, ARMA, and advanced deep learning models such as RNN, LSTM, and GRU. Through extensive experimentation, GRU emerged as the most accurate model, delivering strong performance on both training and test datasets. The goal is to provide reliable regional temperature forecasts that support real-world applications like disaster management, agriculture, and transport.
 
-**❓ Problem Statement**
+## **❓ Problem Statement**
 Accurate and region-specific temperature forecasting is critical for several sectors. However, existing models often fall short due to the non-linear, dynamic nature of atmospheric conditions. This study aims to develop a robust, deep-learning-based forecasting system capable of modeling and predicting temperature with high accuracy and generalization.
 
-**📂 Dataset Description**
+## **📂 Dataset Description**
 Source: National Centers for Environmental Information (NCEI)
 
 - Size: 3,597 daily observations across multiple weather stations.
@@ -16,8 +16,8 @@ Source: National Centers for Environmental Information (NCEI)
 - No Missing Values.
 
 - Suitable for Regional Forecasting.
-**
-🧠 Methodology**
+
+## **🧠 Methodology**
 🔹 1. Data Preprocessing
 Feature engineering: day, month, season, lags
 
